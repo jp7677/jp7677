@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-![My GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api?username=jp7677&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api?username=jp7677&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
 
-![My most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=jp7677&layout=compact&theme=radical&hide_border=true)
+![My most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=jp7677&layout=compact&theme=dark&hide_border=true)
